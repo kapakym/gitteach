@@ -1,5 +1,5 @@
 console.log("Hello Alex")
 
 const i = 2
-console.log("hello world")
+console.log("hello wod")
 console.log("Mike")
